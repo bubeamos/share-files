@@ -9,7 +9,7 @@ updates:
     directories:
       - "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
     commit-message:
       # Prefix all commit messages with "npm: "
       prefix: "pip "
